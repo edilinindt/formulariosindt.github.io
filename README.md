@@ -200,7 +200,7 @@
   <header>
     <div class="title">
       <h1>Formulários de Manutenção Predial</h1>
-      <span class="badge"></span>
+      span class="badge"></span
     </div>
     <p class="subtitle">
       Toque em <b>Abrir</b> para acessar o formulário. Use <b>Copiar link</b> para compartilhar no WhatsApp.
